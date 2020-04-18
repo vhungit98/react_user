@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Lê",
+        "tel": "03737867561",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Lê Văn",
+        "tel": "03737867562",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Lê Văn Hưng",
+        "tel": "03737867563 ",
+        "permission": 3
+    }
+]
